@@ -7,3 +7,4 @@ https://github.com/LatinR/presentaciones-LatinR2018
 https://github.com/LatinR/presentaciones-LatinR2019
 
 2020 3rd LatinR Montevideo - Uruguay
+https://latin-r.com/
